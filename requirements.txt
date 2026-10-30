@@ -1,0 +1,15 @@
+colorama==0.4.6
+pyfiglet==1.0.2
+cryptography==41.0.7
+requests==2.31.0
+httpx==0.25.2
+qrcode==7.4.2
+Pillow==10.1.0
+pyperclip==1.8.2
+tqdm==4.66.1
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+PyYAML==6.0.1
+Jinja2==3.1.2
+dnspython==2.4.2
+python-whois==0.8.0
